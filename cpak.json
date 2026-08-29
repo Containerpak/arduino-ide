@@ -4,7 +4,7 @@
   "name": "Arduino IDE",
   "description": "Develop and upload software for Arduino boards.",
   "version": "2.3.10",
-  "image": "ghcr.io/containerpak/arduino-ide@sha256:9ca12c188fb8ca4ee910dc5ed103eac6cf79132b18ba2fcce2db03ee83c377ac",
+  "image": "ghcr.io/containerpak/arduino-ide@sha256:ffc338bc7d0d3ef9b224d5c89f06ef50428599fa22279cbb1a48de9cb93e7629",
   "binaries": [
     "/usr/bin/arduino-ide"
   ],
